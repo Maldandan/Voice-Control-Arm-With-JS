@@ -4,3 +4,4 @@ In this project, I have used HTML and JavaScript for speech recognition applicat
 
 In this example, robotic arm is being used, and some key words are used to give the Arduino the command to send signal and control the different servo-motors of the robotic arm.
  
+ 
